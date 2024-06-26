@@ -1,0 +1,15 @@
+table,column,unique_percentage
+dim_shippers,shipper_id,100.0
+dim_us_states,state_id,100.0
+dim_categories,category_id,100.0
+dim_suppliers,supplier_id,100.0
+dim_customers,customer_id,100.0
+dim_employees,employee_id,100.0
+dim_region,region_id,100.0
+dim_customer_demographics,customer_type_id,0.0
+dim_territories,territory_id,100.0
+dim_customer_customer_demo,customer_id,0.0
+dim_customer_customer_demo,customer_type_id,0.0
+dim_employee_territories,territory_id,100.0
+dim_products,product_id,100.0
+fact_orders,order_id,100.0

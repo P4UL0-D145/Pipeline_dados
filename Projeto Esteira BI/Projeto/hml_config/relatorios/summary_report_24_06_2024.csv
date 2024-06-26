@@ -1,0 +1,15 @@
+table_name,quantity,date
+dim_shippers,6,2024-06-24
+dim_us_states,51,2024-06-24
+dim_categories,8,2024-06-24
+dim_suppliers,29,2024-06-24
+dim_customers,91,2024-06-24
+dim_employees,9,2024-06-24
+dim_region,4,2024-06-24
+dim_customer_demographics,0,2024-06-24
+dim_territories,53,2024-06-24
+dim_customer_customer_demo,0,2024-06-24
+dim_employee_territories,49,2024-06-24
+dim_products,77,2024-06-24
+fact_orders,830,2024-06-24
+fact_order_details,2159,2024-06-24
